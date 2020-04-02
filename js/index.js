@@ -112,7 +112,7 @@ $(document).ready(function () {
             $('.output-wrap').css('opacity', 0);
             setTimeout(() => {
               $('#titleoutput,#subtitleoutput').html('')
-              $('#title').html('心之所愿,无所不成')
+              $('#title').html('心之所愿   无所不成')
               $('#subtitle').html('Nothing is impossible for a willing heart.')
               $('.ty1').show();
               $('.ty2').hide();
@@ -134,7 +134,7 @@ $(document).ready(function () {
                         setTimeout(() => {
                           $('#titleoutput,#subtitleoutput').html('')
                           $('.output-wrap').css('opacity', 1);
-                          $('#title').html('生命不息，奋斗不止');
+                          $('#title').html('生命不息   奋斗不止');
                           $('#subtitle').html('Cease to struggle and you cease to live.');
                           $('.ty1').show();
                           $('.ty2').hide();

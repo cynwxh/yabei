@@ -149,8 +149,8 @@
   position: relative;
   z-index: 1;
   height: 100vh;
-  animation: AnimationName 115s ease infinite;
-  animation-duration: 115s;
+  animation: AnimationName 100s ease infinite;
+  animation-duration: 100s;
   animation-timing-function: ease;
   animation-delay: 0s;
   animation-iteration-count: infinite;
